@@ -42,23 +42,29 @@
 <img width="1907" height="445" alt="image" src="https://github.com/user-attachments/assets/706290f0-b8a6-4655-93fa-6f4a247c67c8" />
 
 # CIRCUIT DIAGRAM- LOW-PASS FILTER
+<img width="1072" height="821" alt="image" src="https://github.com/user-attachments/assets/381116af-bba9-4f4c-8f3a-70957595cd3b" />
+
+
+# SIMULATED OUTPUT
 <img width="1906" height="444" alt="image" src="https://github.com/user-attachments/assets/64cc21ef-8692-4180-a18a-83f772d022e8" />
-
-# SIMULATED OUTPUT
-
 # CIRCUIT DIAGRAM- HIGH-PASS FILTER
+<img width="1402" height="885" alt="image" src="https://github.com/user-attachments/assets/e522f621-1524-4a55-b724-0db7cb455748" />
 
 # SIMULATED OUTPUT
+<img width="1896" height="439" alt="image" src="https://github.com/user-attachments/assets/5ec9692b-28e2-44b7-abd1-51da2436c8d9" />
 
 # CIRCUIT DIAGRAM- BAND-PASS FILTER
+<img width="1532" height="958" alt="image" src="https://github.com/user-attachments/assets/e783176a-120f-4783-bc63-63d8941f368a" />
 
 # SIMULATED OUTPUT
+<img width="1910" height="475" alt="image" src="https://github.com/user-attachments/assets/cd7e109f-ae3c-460c-94e7-a1246e659b7c" />
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
 
 # SIMULATED OUTPUT
 
 # RESULT
+Thus the software experimentes are executed and verified.
 
 
 
