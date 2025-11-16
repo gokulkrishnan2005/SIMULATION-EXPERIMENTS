@@ -47,6 +47,7 @@
 
 # SIMULATED OUTPUT
 <img width="1906" height="444" alt="image" src="https://github.com/user-attachments/assets/64cc21ef-8692-4180-a18a-83f772d022e8" />
+
 # CIRCUIT DIAGRAM- HIGH-PASS FILTER
 <img width="1402" height="885" alt="image" src="https://github.com/user-attachments/assets/e522f621-1524-4a55-b724-0db7cb455748" />
 
