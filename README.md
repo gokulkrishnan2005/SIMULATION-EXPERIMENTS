@@ -61,8 +61,10 @@
 <img width="1910" height="475" alt="image" src="https://github.com/user-attachments/assets/cd7e109f-ae3c-460c-94e7-a1246e659b7c" />
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
+![Untitled](https://github.com/user-attachments/assets/a260be43-4211-4a4e-b249-c6c4209ff5a6)
 
 # SIMULATED OUTPUT
+![Untitled](https://github.com/user-attachments/assets/184c55da-5946-49eb-87e0-cf9868785454)
 
 # RESULT
 Thus the software experimentes are executed and verified.
